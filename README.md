@@ -2,8 +2,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=phixyn&show_icons=true&theme=dracula&count_private=true&hide=contribs&custom_title=Phixyn%27s%20GitHub%20Stats" alt="Phixyn's GitHub stats" align="right">
 
-<!-- TODO: More badges! -->
+[![GitHub Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Phixyn)
 [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Phixyn)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alpechepancha)
 
 * Freelance full stack developer with over a decade of development experience.
 * Passionate about open source software and making awesome software available to everyone for free 💜
