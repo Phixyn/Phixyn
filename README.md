@@ -1,6 +1,6 @@
 # Hi there, I'm Phixyn! 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=phixyn&show_icons=true&theme=dracula&count_private=true&hide=contribs&custom_title=Phixyn%27s%20GitHub%20Stats" alt="Phixyn's GitHub stats" align="right">
+<a href="https://github-readme-stats.vercel.app/api?username=phixyn&show_icons=true&theme=dracula&count_private=true&hide=contribs&custom_title=Phixyn%27s%20GitHub%20Stats" title="Phixyn's GitHub stats"><img src="https://github-readme-stats.vercel.app/api?username=phixyn&show_icons=true&theme=dracula&count_private=true&hide=contribs&custom_title=Phixyn%27s%20GitHub%20Stats" alt="Phixyn's GitHub stats" align="right"></a>
 
 [![GitHub Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Phixyn)
 [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Phixyn)
