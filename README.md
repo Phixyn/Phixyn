@@ -11,7 +11,7 @@
 
 ## Working on
 
-* Personal portfolio **jamstack** project. Uses **Gridsome** for static site generation and pulls data from **Strapi** (a headless CMS) using **GraphQL**.
+* [Personal portfolio](https://github.com/Phixyn/redhawk) **jamstack** project. Uses **Gridsome** for static site generation and pulls data from **Strapi** (a headless CMS) using **GraphQL**.
 * [No BS YouTube Looper](https://github.com/Phixyn/no-bs-looper) - A **mobile-friendly** website that loops YouTube videos. Simple jQuery project, but it's being migrated to Node.js.
 
 > See also: [Projects Kanban board](https://github.com/users/Phixyn/projects/1)
