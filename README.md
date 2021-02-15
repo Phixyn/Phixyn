@@ -8,7 +8,7 @@ I'm a full stack developer with over a decade of development experience. Passion
 
 📚 Currently learning Vue.js and React.
 
-<a href="https://github-readme-stats.vercel.app/api?username=phixyn&show_icons=true&theme=dracula&count_private=true&hide=contribs&custom_title=Phixyn%27s%20GitHub%20Stats" title="Phixyn's GitHub stats"><img src="https://github-readme-stats.vercel.app/api?username=phixyn&show_icons=true&theme=dracula&count_private=true&hide=contribs&custom_title=Phixyn%27s%20GitHub%20Stats" alt="Phixyn's GitHub stats" align="right"></a>
+<a href="https://github-readme-stats.vercel.app/api?username=phixyn&show_icons=true&theme=dracula&count_private=true&hide=contribs&custom_title=Phixyn%27s%20GitHub%20Stats" title="Phixyn's GitHub stats"><img src="https://github-readme-stats.vercel.app/api?username=phixyn&show_icons=true&theme=dracula&count_private=true&hide=stars,contribs&custom_title=Phixyn%27s%20GitHub%20Stats" alt="Phixyn's GitHub stats" align="right"></a>
 
 ### Recent projects
 
