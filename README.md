@@ -4,7 +4,8 @@
 
 I am a Full Stack Developer with over a decade of development experience. Passionate about making awesome and open source software 💜
 
-- [Personal portfolio](https://github.com/Phixyn/redhawk) - a Vue.js jamstack project.
-- [No BS YouTube Looper](https://github.com/Phixyn/no-bs-looper) - a mobile-friendly website that loops YouTube videos.
+📽️ Featured project: [No BS YouTube Looper](https://github.com/Phixyn/no-bs-looper) - a mobile-friendly website that loops YouTube videos.
 
-> See also: [Projects Kanban board](https://github.com/users/Phixyn/projects/1)
+⚒️ [Active projects](https://github.com/users/Phixyn/projects/1)  
+💾 [Past projects](https://github.com/users/Phixyn/projects/2)  
+📚 Learning: Vue.js
