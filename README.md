@@ -2,10 +2,7 @@
 
 <!-- <a href="https://github-readme-stats.vercel.app/api?username=phixyn&show_icons=true&theme=dracula&count_private=true&hide=contribs&custom_title=Phixyn%27s%20GitHub%20Stats" title="Phixyn's GitHub stats"><img src="https://github-readme-stats.vercel.app/api?username=phixyn&show_icons=true&theme=dracula&count_private=true&hide=stars,contribs&custom_title=Phixyn%27s%20GitHub%20Stats" alt="Phixyn's GitHub stats" align="right"></a> -->
 
-I am a Full Stack Developer with over a decade of development experience. Passionate about making awesome and open source software 💜
+I am a Software Developer with over a decade of development experience. Currently working a full stack developer.
 
 📽️ Featured project: [No BS YouTube Looper](https://github.com/Phixyn/no-bs-looper) - a mobile-friendly website that loops YouTube videos.
 
-⚒️ [Active projects](https://github.com/users/Phixyn/projects/1)  
-💾 [Past projects](https://github.com/users/Phixyn/projects/2)  
-📚 Learning: Vue.js
