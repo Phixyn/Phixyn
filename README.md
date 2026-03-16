@@ -17,6 +17,7 @@
 
 ### Core tech stack
 
+> [!NOTE]
 > Actively using these technologies in client projects - always open to new tools and learning.
 
 **Frontend / Full-stack**  
